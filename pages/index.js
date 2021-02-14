@@ -38,10 +38,6 @@ const About = () => {
         </p>
         <p>I’m passionate about dev particularly web and mobile.</p>
         <p>
-          These days I’m trying to learn about data-driven art mainly because it
-          sounds cool.
-        </p>
-        <p>
           Here is my resume in{" "}
           <Link
             underline
